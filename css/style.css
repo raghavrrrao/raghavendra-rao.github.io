@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+html, body {
+    height: 100%;
+}
+
+#main{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+#fs{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(41, 41, 41);
+}
+
+#elem{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height: 0px;
+    background-color: rgb(80, 158, 142);
+}
+
+#white{
+    width: 100%;
+    height: 0px;
+    position: absolute;
+    bottom: 0;
+    background-color: #dadada;
+}
